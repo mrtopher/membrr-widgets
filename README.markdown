@@ -1,6 +1,6 @@
 # Membrr Widgets for dashEE
 
-If you use the [dashEE ExpressionEngine module](https://github.com/mrtopher/dashEE) and sell membership subscriptions using Membrr (http://membrr.com) then these widgets are for you:
+If you use the [dashEE ExpressionEngine module](https://github.com/mrtopher/dashEE) and sell membership subscriptions using [Membrr](http://membrr.com) then these widgets are for you:
 
 *   Monthly Report - shows number of subscriptions and expirations per month.
 *   Recent Subscriptions - shows 10 most recent subscriptions.
