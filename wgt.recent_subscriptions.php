@@ -14,6 +14,9 @@
 
 class Wgt_recent_subscriptions
 {
+	public $widget_name 		= 'Membrr Recent Subscriptions';
+	public $widget_description 	= 'Most recent Membrr subscriptions.';
+
 	public $EE;
 	public $title;
 	public $wclass;

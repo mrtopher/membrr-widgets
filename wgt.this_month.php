@@ -14,6 +14,9 @@
 
 class Wgt_this_month
 {
+	public $widget_name 		= 'Membrr Current Month Stats';
+	public $widget_description 	= 'Shows current month subscriptions, expirations, cancellations and revenue.';
+	
 	public $EE;
 	public $title;
 	public $wclass;

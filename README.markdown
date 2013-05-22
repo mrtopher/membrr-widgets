@@ -14,14 +14,6 @@ These widgets were written and tested using Membrr 1.70. If you experience any p
 
 2.  Upload selected widget files to the new widgets folder within the module directory.
 
-3.  Update the membrr language file located in the language/eng directory of the module by adding the following lines:
-`'wgt_monthly_report_name' => 'Membrr Monthly Report',`
-`'wgt_monthly_report_description' => 'Monthly report snapshot as on module CP homepage.',`
-`'wgt_recent_subscriptions_name' => 'Membrr Recent Subscriptions',`
-`'wgt_recent_subscriptions_description' => 'Most recent Membrr subscriptions.',`
-`'wgt_this_month_name' => 'Membrr Current Month Stats',`
-`'wgt_this_month_description' => 'Shows current month subscriptions, expirations, cancellations and revenue.',`
-
 That's it. When you click the Widgets button from the dashboard you should now see the widgets listed for installation.
 
 ## Updating

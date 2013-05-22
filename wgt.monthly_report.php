@@ -14,6 +14,9 @@
 
 class Wgt_monthly_report
 {
+	public $widget_name 		= 'Membrr Monthly Report';
+	public $widget_description 	= 'Monthly report snapshot as on module CP homepage.';
+
 	public $EE;
 	public $title;
 	public $wclass;
